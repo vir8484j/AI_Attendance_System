@@ -13,58 +13,58 @@ supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 data = {
     "115": {
         "id": "115",
-        "name": "Virag Jain",
-        "course":"MCA",
-        "major": "AI",
-        "starting_year": 2024,
-        "total_attendance": 8,
-        "standing": "G",
-        "year": 2,
-        "last_attendance_time": "2025-03-23 00:44:48"
+        "name": "",
+        "course":"",
+        "major": "",
+        "starting_year": ,
+        "total_attendance": ,
+        "standing": "",
+        "year": ,
+        "last_attendance_time": ""
     },
     "116": {
         "id": "116",
-        "name": "Rohit Sharma",
-        "course":"BTech",
-        "major": "Blockchain",
-        "starting_year": 2024,
-        "total_attendance": 4,
-        "standing": "G",
-        "year": 2,
-        "last_attendance_time": "2025-03-23 00:44:48"
+        "name": "",
+        "course":"",
+        "major": "",
+        "starting_year": ,
+        "total_attendance": ,
+        "standing": "",
+        "year": ,
+        "last_attendance_time": ""
     },
     "117": {
         "id": "117",
-        "name": "Virat Kohli",
-        "course":"MCA",
-        "major": "Data Science",
-        "starting_year": 2024,
-        "total_attendance": 7,
-        "standing": "G",
-        "year": 2,
-        "last_attendance_time": "2025-03-23 00:44:48"
+        "name": "",
+        "course":"",
+        "major": "",
+        "starting_year": ,
+        "total_attendance": ,
+        "standing": "",
+        "year": ,
+        "last_attendance_time": ""
     },
     "118": {
         "id": "118",
-        "name": "Gautam Adani",
-        "course":"MCA",
-        "major": "Cyber Security",
-        "starting_year": 2024,
-        "total_attendance": 18,
-        "standing": "G",
-        "year": 2,
-        "last_attendance_time": "2025-03-23 00:44:48"
+        "name": "",
+        "course":"",
+        "major": "",
+        "starting_year": ,
+        "total_attendance": ,
+        "standing": "",
+        "year": ,
+        "last_attendance_time": ""
     },
     "119": {
         "id": "119",
-        "name": "Atul Chatter",
-        "course":"BTech",
-        "major": "AI",
-        "starting_year": 2018,
-        "total_attendance": 8,
-        "standing": "G",
-        "year": 4,
-        "last_attendance_time": "2025-04-06 00:44:48"
+        "name": "",
+        "course":"",
+        "major": "",
+        "starting_year": ,
+        "total_attendance": ,
+        "standing": "",
+        "year": ,
+        "last_attendance_time": ""
     }
 }
 
